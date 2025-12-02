@@ -1,0 +1,11 @@
+html {
+  background-color: #00539f; /* A dark blue background for the page */
+}
+
+body {
+  width: 600px; /* Forces the body to be 600px wide */
+  margin: 0 auto; /* Centers the body horizontally */
+  background-color: #ff9500; /* An orange background for the content area */
+  padding: 0 20px 20px 20px; /* Adds space around the content */
+  border: 5px solid black; /* A solid black border */
+}
